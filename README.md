@@ -1,39 +1,47 @@
-# RanSanMoi
-Introducing "Snake Gemu" - A Classic Python Game
-I am excited to introduce my latest project, Snake Gemu, a classic snake game developed using Python and Pygame. This game brings back the nostalgic experience of the traditional snake game while incorporating modern features for an enhanced gaming experience.
+# Introducing "Snake Gemu" - A Classic Python Game
 
-Overview of the Game
-In Snake Gemu, players control a snake that moves around the screen, collecting food to grow longer while avoiding collisions with the walls and its own tail. The game offers a customizable experience, allowing players to adjust the snake's size, speed, and frames per second (FPS) to suit their preferences.
+I am excited to introduce my latest project, **Snake Gemu**, a classic snake game developed using Python and Pygame. This game brings back the nostalgic experience of the traditional snake game while incorporating modern features for an enhanced gaming experience.
 
-Key Features
-Engaging Gameplay: Navigate the snake to collect food and score points.
-Customizable Settings: Adjust snake size, speed, and FPS for a personalized experience.
-Visually Appealing Graphics: Featuring a unique snake head design using an image file (head.png).
-How to Download and Run
-To download and run Snake Gemu, follow these steps:
+## Overview of the Game
 
-Download the Game:
+In **Snake Gemu**, players control a snake that moves around the screen, collecting food to grow longer while avoiding collisions with the walls and its own tail. The game offers a customizable experience, allowing players to adjust the snake's size, speed, and frames per second (FPS) to suit their preferences.
 
-Visit the GitHub repository where the game is hosted.
-Click on the green "Code" button and select "Download ZIP" to download the game files.
-Extract the Files:
+### Key Features
 
-Once downloaded, extract the ZIP file to a folder on your computer.
-Install Pygame:
+- **Engaging Gameplay**: Navigate the snake to collect food and score points.
+- **Customizable Settings**: Adjust snake size, speed, and FPS for a personalized experience.
+- **Visually Appealing Graphics**: Featuring a unique snake head design using an image file (`head.png`).
 
-Open a terminal or command prompt.
-Run the following command to install Pygame:
-Sao chép
-pip install pygame
-Run the Game:
+## How to Download and Run
 
-Navigate to the folder where you extracted the game files.
-Run the game using the command:
-Sao chép
-python snake_game.py
-Enjoy the Game:
+To download and run **Snake Gemu**, follow these steps:
 
-Use the arrow keys to control the snake and start collecting food!
-Conclusion
-Snake Gemu is a fun and engaging game that combines classic gameplay with modern features. I hope you enjoy playing it as much as I enjoyed creating it. Feel free to provide feedback or suggestions for future updates!
+1. **Download the Game**:
+   - Visit the [GitHub repository](https://github.com/RyuuSatoru/RanSanMoi) where the game is hosted.
+   - Click on the green "Code" button and select "Download ZIP" to download the game files.
 
+2. **Extract the Files**:
+   - Once downloaded, extract the ZIP file to a folder on your computer.
+
+3. **Install Pygame**:
+   - Open a terminal or command prompt.
+   - Run the following command to install Pygame:
+     ```bash
+     pip install pygame
+     ```
+
+4. **Run the Game**:
+   - Navigate to the folder where you extracted the game files.
+   - Run the game using the command:
+     ```bash
+     python snake_game.py
+     ```
+
+5. **Enjoy the Game**:
+   - Use the arrow keys to control the snake and start collecting food!
+
+## Conclusion
+
+**Snake Gemu** is a fun and engaging game that combines classic gameplay with modern features. I hope you enjoy playing it as much as I enjoyed creating it. Feel free to provide feedback or suggestions for future updates!
+
+---
