@@ -34,7 +34,7 @@ To download and run **Snake Gemu**, follow these steps:
    - Navigate to the folder where you extracted the game files.
    - Run the game using the command:
      ```bash
-     python snake_game.py
+     python main.py
      ```
 
 5. **Enjoy the Game**:
